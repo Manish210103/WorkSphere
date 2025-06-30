@@ -2,7 +2,7 @@
 
 This interactive Power BI dashboard visualizes the impact of remote work on employees' mental health, productivity, stress levels, and lifestyle choices across different job roles and regions.
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](./effect_of_remote_work.jpeg)
 
 ---
 
